@@ -1,5 +1,5 @@
 import random
-
+#그래 모르렴
 def play_random(n):
     # using 0-99 instead of ranges 1-100
     pardoned = 0
